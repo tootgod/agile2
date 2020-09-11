@@ -1,0 +1,7 @@
+C:\Users\Geesinkbros2\Desktop\cs1cgroup8\agile2\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Definitions.MyProject2.h
+C:\Users\Geesinkbros2\Desktop\cs1cgroup8\agile2\MyProject2\Source\MyProject2\MyProject2GameModeBase.h
+D:\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Geesinkbros2\Desktop\cs1cgroup8\agile2\MyProject2\Intermediate\Build\Win64\UE4Editor\Inc\MyProject2\MyProject2GameModeBase.generated.h
