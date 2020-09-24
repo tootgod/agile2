@@ -1,7 +1,8 @@
 {
 	"files.exclude": {
-		"C:/Users/Geesinkbros2/Desktop/cs1cgroup8/agile2/MyProject2/.vscode": true,
-		"C:/Users/Geesinkbros2/Desktop/cs1cgroup8/agile2/MyProject2/Content": true,
-		"C:/Users/Geesinkbros2/Desktop/cs1cgroup8/agile2/MyProject2/Intermediate": true
+		"C:/Users/Nicholas/Documents/GitHub/agile2/MyProject2/.vscode": true,
+		"C:/Users/Nicholas/Documents/GitHub/agile2/MyProject2/Content": true,
+		"C:/Users/Nicholas/Documents/GitHub/agile2/MyProject2/Intermediate": true,
+		"C:/Users/Nicholas/Documents/GitHub/agile2/MyProject2/Saved": true
 	}
 }
